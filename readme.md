@@ -57,3 +57,5 @@ Estos scripts son de propósito educativo y deben utilizarse de manera responsab
 ---
 
 **Nota**: Cada proyecto contiene su propio README con instrucciones detalladas de uso.
+
+> **Cosas a mejorar, scripts desactualizados, poco robustos, y documentación desactualizada.
